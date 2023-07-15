@@ -1,0 +1,21 @@
+.container{
+    margin: auto;
+    padding-inline: 20px;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    font-family: Impact,sans-serif;
+}
+p{
+    font-size: 35px;
+}
+button{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 80px;
+}
+button:hover{
+    background-color: green;
+}
